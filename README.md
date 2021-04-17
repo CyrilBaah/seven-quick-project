@@ -1,1 +1,1 @@
-# seven-quick-project
+# seven-quick-projects
